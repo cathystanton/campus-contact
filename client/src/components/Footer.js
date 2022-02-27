@@ -27,6 +27,12 @@ function Footer() {
       <box>
         <Link><image src="/icons/instagram.png" /></Link>
       </box>
+      <box>
+        <Link><image src="/icons/twitter.png" /></Link>
+      </box>
+      <box>
+        <Link><image src="/icons/linkedin.png" /></Link>
+      </box>
     </footer>
   );
 }
